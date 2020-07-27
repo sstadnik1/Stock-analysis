@@ -13,7 +13,9 @@ Overall, the green energy market performed much better in 2017 than in 2018. Thi
 ### Speed of Refactored vs. Original code
 
   These images show the difference in code run time and the variations in the loops of the code.
-  Refactored Code
+  
+#### Refactored Code
+
 <p align="center">
   <img src = "Resources/VBA_Challenge_2017.png" width=250>  <img src = "Resources/VBA_Challenge_2018.png" width=250>
   
@@ -22,7 +24,8 @@ Overall, the green energy market performed much better in 2017 than in 2018. Thi
  <img src = "Resources/RefactoredVBAscript.png" width=300> 
 </p>
 
-  Original Code
+#### Original Code
+
 <p align="center">
   <img src = "Resources/VBA_greenstocks2017code.png" width=250>  <img src = "Resources/VBA_greenStocks_2018code.png" width=250>
 </p>
