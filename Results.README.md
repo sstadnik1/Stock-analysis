@@ -15,15 +15,17 @@ Overall, the green energy market performed much better in 2017 than in 2018. Thi
   Refactored Code
 <p align="center">
   <img src = "Resources/VBA_Challenge_2017.png" width=200>  <img src = "Resources/VBA_Challenge_2018.png" width=200>
+</p>
+<p align="center">
  <img src = "Resources/RefactoredVBAScript.png" width=300> 
 </p>
-
   Original Code
 <p align="center">
-  <img src = "Resources/VBA_greenstocks2017code.png" width=200>  <img src = "Resources/VBA_greenstocks2018code.png" width=200>
+  <img src = "Resources/VBA_greenstocks_2017code.png" width=200>  <img src = "Resources/VBA_greenStocks_2018code.png" width=200>
+</p>
+<p align="center">
   <img src = "Resources/OriginalVBAScript.png" width=300>
 </p>
-
 
 ## Summary
 
