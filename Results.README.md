@@ -10,7 +10,9 @@
   <img src = "Resources/VBA_Challenge_2017.png" width=550>
   <img src = "Resources/VBA_Challenge_2018.png" width=550>
 </p>
-## Summary (heading)
+
+## Summary (heading) 
+
 In a summary statement, address the following questions: 
 (summary headings)What are the advantages or disadvantages of refactoring code?
   - There is a detailed statement on the advantages and disadvantages of refactoring code in general 
